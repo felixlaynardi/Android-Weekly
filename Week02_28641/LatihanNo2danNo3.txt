@@ -1,0 +1,9 @@
+2. Error akan terjadi dalam skenario poin A dan B. Hal ini terjadi karena operasi parseDouble yang menampung nilai angka1 dan angka2 ke dalam operand1 dan operand2 tidak dapat menerima string dari input. Untuk dapat menghindari error maka dapat menambahkan IF Statement, ketika hasil input tersebut kosong, untuk memberikan nilai 0 pada operand. 
+
+Pada poin C, ketika nilai 0 diinput pada angka2 maka akan diperoleh nilai infinity. Hal tersebut terjadi karena bilangan apapun yang dibagi dengan nilai 0 akan menjadi infinity atau tidak terdefinisi.
+
+3. 
+Step Over adalah metode untuk menjalankan baris selanjutnya dari baris yang telah ditandai dengan breakpoint.
+Step Into adalah metode untuk menjalankan method jika breakpoint terjadi pada baris yang memanggil suatu method.
+Step Out adalah metode untuk menjalankan baris selanjutnya dari method baris yang ditandai dengan breakpoint.
+Resume adalah metode untuk menjalankan aplikasi kembali dengan normal.
