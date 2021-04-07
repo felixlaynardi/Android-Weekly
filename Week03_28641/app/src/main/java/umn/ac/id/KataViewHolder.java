@@ -7,7 +7,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-public class KataViewHolder extends RecyclerView.ViewHolder{
+    public class KataViewHolder extends RecyclerView.ViewHolder{
     public final TextView kataItemView;
     final DaftarKataAdapter mAdapter;
 
