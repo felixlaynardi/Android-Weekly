@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-  </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -27,10 +19,61 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33518f98-d318-4c19-bd9b-5c8021ec4e9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03_28641/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Week03_28641/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03_28641/app/src/main/java/umn/ac/id/KataViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week03_28641/app/src/main/java/umn/ac/id/KataViewHolder.java" afterDir="false" />
+    <list default="true" id="c406f4f2-0af6-4e7b-8f91-1f1a008c12c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Week09_28641/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/androidTest/java/umn/ac/week09_28641/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/java/umn/ac/week09_28641/FirstFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/java/umn/ac/week09_28641/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/java/umn/ac/week09_28641/MahasiswaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/java/umn/ac/week09_28641/MahasiswaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/java/umn/ac/week09_28641/MahasiswaRoomDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/java/umn/ac/week09_28641/MahasiswaViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/java/umn/ac/week09_28641/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/java/umn/ac/week09_28641/SecondFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/app/src/test/java/umn/ac/week09_28641/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week09_28641/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,18 +86,10 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="resourceFile" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1qVuCZ1sicpQOIz7FUbSTr5X6IF" />
+  <component name="ProjectId" id="1qpdyJWvYhGI4UOGimM9VNVsoRO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,16 +97,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week08_28641" />
     <property name="settings.editor.selected.configurable" value="experimental" />
-  </component>
-  <component name="RecentsManager">
-    <key name="android.template.-2122369272">
-      <recent name="umn.ac.week08" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="umn.ac.week08" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -81,8 +107,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Week08.app" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Week09_28641.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -144,11 +170,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="33518f98-d318-4c19-bd9b-5c8021ec4e9e" name="Default Changelist" comment="" />
-      <created>1617176951975</created>
+      <changelist id="c406f4f2-0af6-4e7b-8f91-1f1a008c12c1" name="Default Changelist" comment="" />
+      <created>1617780718907</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617176951975</updated>
+      <updated>1617780718907</updated>
     </task>
     <servers />
   </component>
@@ -162,16 +188,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="349" y="172" key="AndroidCreateResourceFileDialog" timestamp="1617178664916">
+    <state x="461" y="125" key="FileChooserDialogImpl" timestamp="1617780769176">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="349" y="172" key="AndroidCreateResourceFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1617178664916" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1617772289789">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1617772289789" />
+    <state x="461" y="125" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1617780769176" />
   </component>
 </project>
