@@ -1,12 +1,9 @@
------------------------------------umn.ac.week11_28641.PostModel.java-----------------------------------
+package umn.ac.week11_28641.Model;
 
-        package umn.ac.week11_28641;
-
-import javax.annotation.Generated;
+//import javax.annotation.Generated;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-@Generated("jsonschema2pojo")
 public class PostModel {
 
     @SerializedName("userId")
